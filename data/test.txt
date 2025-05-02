@@ -1,0 +1,9 @@
+6 lot00005 A 
+7 lot00002 D 
+8 lot00003 D 
+10 lot00006 A 
+11 lot00007 A 
+12 lot00005 D 
+13 lot00004 D 
+16 lot00006 D 
+16 lot00007 D
